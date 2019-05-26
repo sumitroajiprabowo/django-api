@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Kode Nusantara
+LABEL maintainer="Kode Nusantara dev@kodenusantara.co.id"
 
 ENV PYTHONUNBUFFERED 1
 
